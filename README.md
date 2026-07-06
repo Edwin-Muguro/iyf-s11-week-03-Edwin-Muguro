@@ -3,7 +3,7 @@
 ## Author
 - **Name:** Edwin Muguro
 - **GitHub:** @Edwin-Muguro (https://github.com/Edwin-Muguro)
-- **Date:** 07 06, 2026
+- **Date:** 06-07-2026
 
 ## Project Description
 Developer Tools & Workflow for class assignment.
